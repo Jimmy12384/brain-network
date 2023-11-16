@@ -1,6 +1,6 @@
 package com.jfennelly.brain.network;
 
-import com.jfennelly.brain.network.utils.RandomUtils;
+import com.jfennelly.brain.network.util.RandomUtils;
 import lombok.Data;
 
 import java.util.ArrayList;

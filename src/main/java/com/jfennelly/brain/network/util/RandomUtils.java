@@ -1,4 +1,4 @@
-package com.jfennelly.brain.network.utils;
+package com.jfennelly.brain.network.util;
 
 import java.util.List;
 import java.util.Random;

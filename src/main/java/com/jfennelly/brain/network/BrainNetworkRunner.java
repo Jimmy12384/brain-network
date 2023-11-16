@@ -1,14 +1,12 @@
 package com.jfennelly.brain.network;
 
-import com.jfennelly.brain.network.utils.RandomUtils;
+import com.jfennelly.brain.network.util.RandomUtils;
 import processing.core.PApplet;
 import processing.core.PShape;
 import processing.core.PVector;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Objects;
-import java.util.stream.Collectors;
 
 /**
  * Main runner for the brain network application. Responsible for integrating
